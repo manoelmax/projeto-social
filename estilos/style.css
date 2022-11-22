@@ -39,3 +39,11 @@ section#telefone{
     background-repeat: no-repeat;
 
 }
+
+iframe#tela{
+    position: relative;
+    top: 80px; /* posição do iframe*/
+    left: 22px;/*posição do iframe*/
+    width: 269px; /* largura iframe*/
+    height: 471px;/*altura iframe*/
+}
